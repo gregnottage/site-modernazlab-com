@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+  <title>Modern Az Lab</title>
+  <rect width="512" height="512" fill="#0B5E8C"/>
+  <path d="M 93 315 L 93 197 L 132 268 L 171 197 L 171 315 M 214 315 L 256 197 L 298 315 M 231 274 H 281 M 341 197 H 419 L 341 315 H 419" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2"/>
+</svg>
